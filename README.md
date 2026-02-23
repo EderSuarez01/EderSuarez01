@@ -92,15 +92,7 @@ Outside of that, I build full-stack web applications. My main project is <strong
 
 </div>
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EderSuarez01/EderSuarez01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EderSuarez01/EderSuarez01/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/EderSuarez01/EderSuarez01/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
