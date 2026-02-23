@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/EderSuarez01/EderSuarez01/main/assets/es_logo.png" width="150"/>
+
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Eder+Su%C3%A1rez+%7C+Full+Stack+Developer;AI+Training+Specialist+%40+Scale+AI)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
@@ -15,7 +19,7 @@ const eder = {
     location: "Bogotá, Colombia",
     role: "AI Training Specialist @ Scale AI",
     education: "Software Engineering — Final Year",
-    languages: ["Spanish (Native)", "English (B2)"],
+    languages: ["Spanish (Native)", "English ████████░░ 80%"],
     dailyRoutine: ["Train AI models", "Build web apps", "Break things on purpose (red teaming)"],
 };
 ```
@@ -78,15 +82,15 @@ Outside of that, I build full-stack web applications. My main project is <strong
 
 </div>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderSuarez01&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
-
-</div>
-
 ---
 
-<h2>🐍 Contribution Graph</h2>
+<h2>🐍 Activity</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EderSuarez01&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true" width="95%"/>
+
+</div>
 
 <div align="center">
 
@@ -97,8 +101,6 @@ Outside of that, I build full-stack web applications. My main project is <strong
 </picture>
 
 </div>
-
-> ⚠️ Para activar la snake animation necesitas configurar un GitHub Action. Te dejo las instrucciones abajo.
 
 ---
 
